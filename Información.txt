@@ -1,0 +1,48 @@
+koders
+mentors
+courses
+
+Cursos
+nombre
+id
+mentor 
+koders
+
+koders
+nombre
+edad
+ciudad
+
+mentores
+Nombre 
+edad
+
+//1 router por cada recurso
+//
+
+Agregar cursos white
+
+///////////////////////////////////////////////////////77
+
+Modelo       Vista        Controlador
+
+-Modelo      -Routes        UseCases
+Schemas      /koders        Koders
+             /mentors       Mentors
+             /Auths
+
+//ORM
+https://ed.team/blog/agiliza-tu-desarrollo-en-nodejs-con-el-orm-sequelize
+
+//KOA
+https://koajs.com/
+
+//Facebook
+
+Models              Vista           Control
+Photos              Home            Add Photos
+Users               Profile         Add post
+PhotosGroups        Feed            Search
+Pages               Photo           Unfriend
+Messages            Config          Unfollow
+                    Login

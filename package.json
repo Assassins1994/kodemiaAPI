@@ -1,0 +1,25 @@
+{
+  "name": "api-kodemia",
+  "version": "1.0.0",
+  "description": "API de koders, mentores y cursos de kodemia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "API",
+    "Express",
+    "Mongoose",
+    "Node",
+    "koders",
+    "Mentors",
+    "Courses"
+  ],
+  "author": "Daniel Ortega E.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12"
+  }
+}
